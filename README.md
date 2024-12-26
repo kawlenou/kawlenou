@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salut, je suis Alain Awlenou </h1>
-<h3 align="center">Développeur Fullstack JavaScript avec 5 ans d'expérience, expert en React.js et Node.js. Passionné par la création d'applications performantes et scalables. Expérimenté dans la gestion d'APIs RESTful, d'architectures serverless et d'intégrations cloud.</h3>
+<h5 align="center">Développeur Fullstack JavaScript avec 5 ans d'expérience, expert en React.js et Node.js. Passionné par la création d'applications performantes et scalables. Expérimenté dans la gestion d'APIs RESTful, d'architectures serverless et d'intégrations cloud.</h5>
 
 <p align="center">
   <a href="https://github.com/kawlenou"><img src="https://img.shields.io/github/followers/kawlenou?label=Suiveurs&style=social"></a>
